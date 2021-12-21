@@ -1,0 +1,87 @@
+* {
+    margin-top: 0%;
+  }
+  html {
+    background-color: var(--body-bg-color);
+  }
+  :root {
+    --body-bg-color: #121214;
+  
+    --text-color: #e1e1e6;
+  
+    --title-color: ;
+  
+    --form-color: #a8a8a8;
+  }
+  h2,
+  h3,
+  p {
+    color: var(--text-color);
+    margin-left: 36px;
+  }
+  .logo {
+    height: 100px;
+    width: 350px;
+    margin-top: 50px;
+    margin-bottom: 92px;
+  }
+  .veio {
+    position: absolute;
+    height: 100vh;
+    object-fit: cover;
+    margin-left: 388px;
+    width: 580px;
+    object-position: 80% 100%;
+  }
+  
+  #insira {
+    color: #a8a8a8;
+    padding: 36px;
+  }
+  #email {
+    padding: 10px;
+  
+    position: absolute;
+  
+    width: 798px;
+  
+    left: 20px;
+  
+    top: 470px;
+  
+    border: none;
+  
+    border-left: #04d361 6px solid;
+  
+    height: 30px;
+  
+    backdrop-filter: blur(15px);
+  
+    background-color: #ffffff;
+  }
+  button {
+    position: absolute;
+    margin-top: 47px;
+    left: 844px;
+    background-color: #8257e5;
+    height: 52px;
+    width: 55px;
+    border: none;
+  }
+  #link {
+    color: #8257e5;
+    position: absolute;
+    margin-top: 100px;
+    font-family: spartan, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 25px;
+    text-decoration: none;
+  }
+  .seta {
+  position: relative;
+  top: 7px;
+  }
+  h2 {
+  color: #04d361;
+  }
